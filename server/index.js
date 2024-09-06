@@ -1,6 +1,7 @@
 // found my own dog json file to use 
 // credit: https://gist.github.com/kastriotadili/acc722c9858189440d964db976303078 
 const dogBreedsData = require('./dog-breeds-data.json');
+// console.log(dogBreedsData);
 
 // express and path are imported 
 const express = require('express');
